@@ -1,0 +1,44 @@
+/* Style the body */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Style the header */
+header {
+    background-color: #99ccff;
+}
+
+/* Style the nav */
+nav {
+    background-color: #6699cc;
+}
+
+/* Style the main section */
+main {
+    background-color: #ffffff;
+    font-size: 18px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #cccccc;
+}
+
+/* Style list items */
+li {
+    display: inline-block;
+    width: 30%;
+}
+
+/* Style h1 */
+h1 {
+    text-align: center;
+    font-family: Georgia, serif;
+    color: #003366;
+}
+
+/* Style paragraph text */
+p {
+    line-height: 1.5;
+}
